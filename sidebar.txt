@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[xkw:home|Door43 (xkw)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-xkw|d43-xkw repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-xkw/archive/master.zip|d43-xkw.zip]]
+
+**Recent Changes**
+{{changes>ns = xkw}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/xkw|Ethnologue data]]
+
